@@ -1,2 +1,2 @@
-# SQL-database-project
-a SQL database project which concludes handling of multiple queries on data
+# SQL-project
+a SQL project which concludes handling of multiple queries on data
